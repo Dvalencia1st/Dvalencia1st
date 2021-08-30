@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Danny, I am a newly software engineer, looking to get moe exposure in the field. 
+- 👋 Hi, I’m Danny, I am a newly software engineer, looking to get more exposure in the field. 
 - 👀 I’m interested in learning and getting as much experience in software development. 
 - 🌱 I’m currently learning Node.js, Python, JavaScript, SpringBoot, and eager to learn about other subjects too.
 - 💞️ I’m looking to collaborate on projects where I can get some more experience and exposure. 
